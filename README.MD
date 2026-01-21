@@ -182,6 +182,7 @@ It does 4 major things:
 ## 🥄 Step 1: Finding spent money
 
 ```python
+def create_spend_chart(categories):
 spent = []
 for cat in categories:
     total = 0
