@@ -1,6 +1,6 @@
 # 📊 Budget App in Python — Daily Revision README
 
-This README is designed so Bharath can **revise daily** and clearly understand the full Budget App program used in the FreeCodeCamp project.
+
 
 It explains:
 
